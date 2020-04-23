@@ -1,0 +1,36 @@
+.fact {
+  font-style: italic;
+}
+
+p {text-align: center;}
+
+span {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.border {
+  border: 3px solid gray;
+  margin: 1em;
+  padding: 0.5em;
+  width: 301px;
+  height: 640px;
+  border-style: inset;
+  }
+
+.border2 {
+  border: 1px solid gray;
+  margin: 0.1em;
+  padding: 0.1em;
+  width: 295px;
+  height: 360px;
+  }
+
+  body {
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  }
